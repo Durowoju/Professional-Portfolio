@@ -73,7 +73,7 @@ As I advance in my career, I will continue to combine **technical expertise** wi
 
 ---
 
-## 🧠 Keywords
+## 🧠 Keywords 
 `AI/ML Integration` • `Change Management` • `Leadership` • `Data-Driven Engineering` • `Continuous Improvement` • `Semiconductor Process Optimization`
 
 ---
