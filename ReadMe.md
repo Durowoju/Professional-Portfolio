@@ -10,7 +10,7 @@ These tools measure my ability to lead technological integration, manage organiz
 ---
 ## 🔍 Key Insights
 
-  ![Self-Assessment Summary](./A_horizontal_bar_chart_in_a_2D_digital_graphic_dis.png) 
+ ![Self-Assessment Summary](./A_horizontal_bar_chart_in_a_2D_digital_graphic_dis.png)
 
 ### **AI/ML Integration Assessment Highlights**
 
