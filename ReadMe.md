@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="900" alt="Durowoju Emmanuel – AI/ML Integration & Leadership Portfolio">
+</p>
+
 # 🧩 Professional Growth Artifact: AI/ML Integration & Change Leadership Skills
 
 ## 📝 Artifact Overview
@@ -74,4 +78,6 @@ As I advance in my career, I will continue to combine **technical expertise** wi
 
 ---
 ## Added score indicators to tables and chart summary
+## Added professional banner image to README
+
 _Last updated: November 08, 2025_
