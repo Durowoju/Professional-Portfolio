@@ -8,6 +8,13 @@ This artifact showcases two professional self-assessments evaluating my leadersh
 These tools measure my ability to lead technological integration, manage organizational change, and align AI-driven initiatives with business objectives.
 
 ---
+## 🔍 Key Insights
+<p align="center">
+  <img src="./A_horizontal_bar_chart_in_a_2D_digital_graphic_dis.png" width="700"><br>
+  <em>Figure 1. Summary of AI/ML Integration and Change Management Self-Assessment Scores</em>
+</p>
+
+
 ### **AI/ML Integration Assessment Highlights**
 
 | **Category**              | **Score** | **Max** | **Comment**                                                        |
