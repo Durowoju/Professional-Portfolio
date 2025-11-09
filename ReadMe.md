@@ -9,11 +9,8 @@ These tools measure my ability to lead technological integration, manage organiz
 
 ---
 ## 🔍 Key Insights
-<p align="center">
-  <img src="./A_horizontal_bar_chart_in_a_2D_digital_graphic_dis.png" width="700"><br>
-  <em>Figure 1. Summary of AI/ML Integration and Change Management Self-Assessment Scores</em>
-</p>
 
+  ![Self-Assessment Summary](./A_horizontal_bar_chart_in_a_2D_digital_graphic_dis.png) 
 
 ### **AI/ML Integration Assessment Highlights**
 
@@ -73,5 +70,5 @@ As I advance in my career, I will continue to combine **technical expertise** wi
 `AI/ML Integration` • `Change Management` • `Leadership` • `Data-Driven Engineering` • `Continuous Improvement` • `Semiconductor Process Optimization`
 
 ---
-## Added score indicators to tables
+## Added score indicators to tables and chart summary
 _Last updated: November 08, 2025_
