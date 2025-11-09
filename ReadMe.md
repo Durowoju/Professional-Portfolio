@@ -44,7 +44,7 @@ These tools measure my ability to lead technological integration, manage organiz
 | Continuous Learning        | 20        | 20      | 🟢 Perfect score – strong commitment to growth              |
 
 
-**Total:** 198 / 250
+**Total:** 198 / 250 
 
 ---
 
