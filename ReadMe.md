@@ -1,6 +1,10 @@
 <p align="center">
   <img src="./banner.png" width="900" alt="Durowoju Emmanuel – AI/ML Integration & Leadership Portfolio">
 </p>
+## 👤 **About Me — Professional Bio**
+
+I’m **Emmanuel Durowoju**, a Process Engineer and AI/Data Analytics specialist with a strong background in semiconductor manufacturing, machine learning, and sustainable engineering. I build data-driven solutions that improve process stability, reduce defects, and enhance decision-making in high-tech environments. My work spans solid-state battery research, predictive modeling, and advanced process optimization using Python, SQL, JMP, and modern AI techniques. I’m passionate about applying intelligent systems to real industrial challenges and developing scalable innovations that strengthen manufacturing performance and sustainability.
+
 
 # 🧩 Professional Growth Artifact: AI/ML Integration & Change Leadership Skills
 
